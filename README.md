@@ -10,10 +10,10 @@ The solution of LeetCode problems, take it easy!
 ## LeetCode Algorithm
 
 
-| # | Title | Solution | Thinking | Difficulty |
-|---| ----- | -------- | -------- | ---------- |
-|001|[Two Sum](https://leetcode.com/problems/two-sum/description/) | [C++](./C++/twoSum/twoSum.cpp)|[Thinking](./C++/twoSum/README.md)|Easy|
-
+| Number | Title | C++ | Java | Go | Rust | Python | JavaScript | Thinking | Difficulty |
+| ------ | ----- | --- | ---- | -- | ---- | ------ | ---------- | -------- | ---------- |
+|001|[Two Sum](https://leetcode.com/problems/two-sum/description/) | [C++](./C++/twoSum/twoSum.cpp) | [Java]() | [JavaScript]() | [Go]() | [Rust]() | [Python]() | [note](./C++/twoSum/README.md) | Easy |
+|00X|[]() | []() | [C++]() | [No]() | [No]() | [No]() | [No]() | [note]() | |
 
 
 
