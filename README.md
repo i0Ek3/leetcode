@@ -7,17 +7,17 @@ The solution of LeetCode problems, take it easy, let we fuck it up!
 
 ## Problems
 
-| Number | Title | C++ | Go | Note | Difficulty |
+| Number | Title | Solution | Difficulty |
 | ------ | ----- | --- | ---- | -- | ---- | ------ | ---------- | ---- | ---------- |
-|001|[Two Sum](https://leetcode.com/problems/two-sum/description/) | [C++](./C++/001/twoSum.cpp) | [No]() | [note](./C++/001/README.md) | Easy |
-|002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [No](./C++/002/addTwoNumbers.cpp) | [No]() | [note](./C++/002/README.md) | Medium |
-|00X|[]() | [C++](./C++/00X/.cpp) | [No]() | [note](./C++/00X/README.md) | Easy |
+|001|[Two Sum](https://leetcode.com/problems/two-sum/description/) | [C++](./C++/001/twoSum.cpp) | Easy |
+|002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C++](./C++/002/addTwoNumbers.cpp) | Medium |
+|00X|[]() | [C++](./C++/00X/.cpp) | Easy |
 
 
 
 ## Credit
 
-> Thanks to these guys for highly quality leetcode solusions.
+> Thanks to these guys for highly quality leetcode solutions.
 
 - [@haoel](https://github.com/haoel/leetcode)
 - [@kamyu104](https://github.com/kamyu104/LeetCode-Solutions)
