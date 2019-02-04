@@ -8,10 +8,10 @@ The solution of LeetCode problems, take it easy, let we fuck it up!
 ## Problems
 
 | Number | Title | Solution | Difficulty |
-| ------ | ----- | --- | ---- | -- | ---- | ------ | ---------- | ---- | ---------- |
+| ------ | ----- | -------- | ---------- |
 |001|[Two Sum](https://leetcode.com/problems/two-sum/description/) | [C++](./C++/001/twoSum.cpp) | Easy |
 |002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C++](./C++/002/addTwoNumbers.cpp) | Medium |
-|00X|[]() | [C++](./C++/00X/.cpp) | Easy |
+|003|[]() | [C++](./C++/003/.cpp) | Easy |
 
 
 
