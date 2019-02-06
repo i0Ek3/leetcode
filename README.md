@@ -11,8 +11,7 @@ The solution of LeetCode problems, take it easy, let we fuck it up!
 | ------ | ----- | -------- | ---------- |
 |001|[Two Sum](https://leetcode.com/problems/two-sum/description/) | [C++](./C++/001/twoSum.cpp) | Easy |
 |002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C++](./C++/002/addTwoNumbers.cpp) | Medium |
-|003|[Longest Substring Without Repeating](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++](./C++/002/longestSubstringWithoutRepeating.cpp) | Medium |
-
+|003|[Longest Substring Without Repeating](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++](./C++/003/longestSubstringWithoutRepeatingCharacters.cpp) | Medium |
 
 
 ## Credit
