@@ -9,9 +9,12 @@ The solution of LeetCode problems, take it easy, let we fuck it up!
 
 | Number | Title | Solution | Difficulty |
 | ------ | ----- | -------- | ---------- |
-|001|[Two Sum](https://leetcode.com/problems/two-sum/description/) | [C++](./C++/001/twoSum.cpp) | Easy |
-|002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C++](./C++/002/addTwoNumbers.cpp) | Medium |
-|003|[Longest Substring Without Repeating](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++](./C++/003/longestSubstringWithoutRepeatingCharacters.cpp) | Medium |
+|001|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[C++](./C++/001/twoSum.cpp)|Easy|
+|002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[C++](./C++/002/addTwoNumbers.cpp)|Medium|
+|003|[Longest Substring Without Repeating](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[C++](./C++/003/longestSubstringWithoutRepeatingCharacters.cpp)|Medium|
+|004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[C++](./C++/004/004.cpp)|Hard|
+|005|[]()|[C++](./C++/005/005.cpp)| |
+
 
 
 ## Credit
