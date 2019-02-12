@@ -14,8 +14,11 @@ The solution of LeetCode problems, take it easy, let we fuck it up!
 |003|[Longest Substring Without Repeating](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[C++](./C++/003/longestSubstringWithoutRepeatingCharacters.cpp)|Medium|
 |004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[C++](./C++/004/004.cpp)|Hard|
 |005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[C++](./C++/005/005.cpp)|Medium|
-|006|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[C++](./C++/005/006.cpp)|Medium|
-|007|[]()|[C++](./C++/005/007.cpp)| |
+|006|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[C++](./C++/006/006.cpp)|Medium|
+|007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[C++](./C++/007/007.cpp)|Easy|
+|008|[String to Integer(atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[C++](./C++/008/008.cpp)|Medium|
+|009|[]()|[C++](./C++/009/009.cpp)| |
+|010|[]()|[C++](./C++/010/010.cpp)| |
 
 
 
