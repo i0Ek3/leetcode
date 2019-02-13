@@ -17,8 +17,11 @@ The solution of LeetCode problems, take it easy, let we fuck it up!
 |006|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[C++](./C++/006/006.cpp)|Medium|
 |007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[C++](./C++/007/007.cpp)|Easy|
 |008|[String to Integer(atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[C++](./C++/008/008.cpp)|Medium|
-|009|[]()|[C++](./C++/009/009.cpp)| |
-|010|[]()|[C++](./C++/010/010.cpp)| |
+|009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[C++](./C++/009/009.cpp)|Easy|
+|010|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[C++](./C++/010/010.cpp)|Hard|
+|011|[]()|[C++](./C++/011/011.cpp)| |
+|012|[]()|[C++](./C++/012/012.cpp)| |
+|013|[]()|[C++](./C++/013/013.cpp)| |
 
 
 

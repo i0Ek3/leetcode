@@ -1,26 +1,30 @@
 // 008 String to integer (atoi)
 //
-#include <climits>
 
-int myAtoi(string str) {
-    int flag = 1;
-    int sum = 0;
-    int i = 0;
-    int n = str.size();
+class Solution {
+public:
+    int myAtoi(string str) {
+        int flag = 1;
+        int sum = 0;
+        int i = 0;
+        int n = str.length();
 
-    if (str[i] == ' ' && i < n) i++;
-    if (str[i] == '-') {
-        flag = -1;
-        i++;
-    } else if (str[i] == '+') {
-        i++;
-    }
-    for (; i < n; i++) {
-        if (str[i] < '0' || str[i] > '9') break;
-        if (sum > INT_MAX / 10 || (sum == INT_MAX / 10 && (str[i] - '0') >  INT_MAX % 10)) {
-            return flag == -1 ? INT_MIN : INT_MAX;
+        if (str.empty()) return 0;
+        while (str[i] == ' ' || str[i] == '\t') i++;
+        if (n == i) return 0;
+        if (str[i] == '-') {
+            flag = -1;
+            i++;
+        } else if (str[i] == '+') {
+            i++;
         }
-        sum = sum * 10 + str[i] - '0';
+        for (; i < n && isdigit(str[i]); i++) {
+            if (sum > (numeric_limits<int>::max() - (str[i] - '0')) / 10) {
+                return flag > 0 ? numeric_limits<int>::max() : numeric_limits<int>::min();
+            }
+            sum *= 10;
+            sum += str[i] - '0';
+        }
+        return sum * flag;
     }
-    return sum * flag;
-}
+};
