@@ -9,20 +9,28 @@ The solution of LeetCode problems, take it easy, let we fuck it up!
 
 | Number | Title | Solution | Difficulty |
 | ------ | ----- | -------- | ---------- |
-|001|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[C++](./C++/001/twoSum.cpp)|Easy|
-|002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[C++](./C++/002/addTwoNumbers.cpp)|Medium|
-|003|[Longest Substring Without Repeating](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[C++](./C++/003/longestSubstringWithoutRepeatingCharacters.cpp)|Medium|
-|004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[C++](./C++/004/004.cpp)|Hard|
-|005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[C++](./C++/005/005.cpp)|Medium|
-|006|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[C++](./C++/006/006.cpp)|Medium|
-|007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[C++](./C++/007/007.cpp)|Easy|
-|008|[String to Integer(atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[C++](./C++/008/008.cpp)|Medium|
-|009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[C++](./C++/009/009.cpp)|Easy|
-|010|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[C++](./C++/010/010.cpp)|Hard|
-|011|[]()|[C++](./C++/011/011.cpp)| |
-|012|[]()|[C++](./C++/012/012.cpp)| |
-|013|[]()|[C++](./C++/013/013.cpp)| |
+|001|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[C++](./C++/001.cpp)|Easy|
+|002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[C++](./C++/002.cpp)|Medium|
+|003|[Longest Substring Without Repeating](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[C++](./C++/003.cpp)|Medium|
+|004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[C++](./C++/004.cpp)|Hard|
+|005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[C++](./C++/005.cpp)|Medium|
+|006|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[C++](./C++/006.cpp)|Medium|
+|007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[C++](./C++/007.cpp)|Easy|
+|008|[String to Integer(atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[C++](./C++/008.cpp)|Medium|
+|009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[C++](./C++/009.cpp)|Easy|
+|010|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[C++](./C++/010.cpp)|Hard|
+|011|[]()|[C++](./C++/011.cpp)| |
+|012|[]()|[C++](./C++/012.cpp)| |
+|013|[]()|[C++](./C++/013.cpp)| |
 
+
+
+
+## Record
+
+Whatever, you should record your thoughts or summarize your methods for review easily.
+
+- [001-010](https://github.com/i0Ek3/LeetCode/blob/master/record/001-010.md)
 
 
 ## Credit
