@@ -21,7 +21,10 @@ The solution of LeetCode problems, take it easy, let we fuck it up!
 |010|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[C++](./C++/010.cpp)|Hard|
 |011|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[C++](./C++/011.cpp)|Medium|
 |012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[C++](./C++/012.cpp)|Medium|
-|013|[]()|[C++](./C++/013.cpp)| |
+|013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[C++](./C++/013.cpp)|Easy|
+|014|[]()|[C++](./C++/014.cpp)| |
+|015|[]()|[C++](./C++/015.cpp)| |
+|016|[]()|[C++](./C++/016.cpp)| |
 
 
 
