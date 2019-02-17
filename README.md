@@ -22,7 +22,7 @@ The solution of LeetCode problems, take it easy, let we fuck it up!
 |011|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[C++](./C++/011.cpp)|Medium|
 |012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[C++](./C++/012.cpp)|Medium|
 |013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[C++](./C++/013.cpp)|Easy|
-|014|[]()|[C++](./C++/014.cpp)| |
+|014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[C++](./C++/014.cpp)|Easy|
 |015|[]()|[C++](./C++/015.cpp)| |
 |016|[]()|[C++](./C++/016.cpp)| |
 
