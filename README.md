@@ -23,7 +23,7 @@ The solution of LeetCode problems, take it easy, let we fuck it up!
 |012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[C++](./C++/012.cpp)|Medium|
 |013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[C++](./C++/013.cpp)|Easy|
 |014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[C++](./C++/014.cpp)|Easy|
-|015|[]()|[C++](./C++/015.cpp)| |
+|015|[3Sum](https://leetcode.com/problems/3sum/)|[C++](./C++/015.cpp)|Medium|
 |016|[]()|[C++](./C++/016.cpp)| |
 
 
@@ -33,6 +33,7 @@ The solution of LeetCode problems, take it easy, let we fuck it up!
 
 Whatever, you should record your thoughts or summarize your methods for review easily.
 
+- [Attention](https://github.com/i0Ek3/LeetCode/blob/master/record/attention.md)
 - [001-010](https://github.com/i0Ek3/LeetCode/blob/master/record/001-010.md)
 - [011-020](https://github.com/i0Ek3/LeetCode/blob/master/record/011-020.md)
 
