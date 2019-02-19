@@ -24,7 +24,10 @@ The solution of LeetCode problems, take it easy, let we fuck it up!
 |013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[C++](./C++/013.cpp)|Easy|
 |014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[C++](./C++/014.cpp)|Easy|
 |015|[3Sum](https://leetcode.com/problems/3sum/)|[C++](./C++/015.cpp)|Medium|
-|016|[]()|[C++](./C++/016.cpp)| |
+|016|[3Sum closest](https://leetcode.com/problems/3sum-closest/)|[C++](./C++/016.cpp)|Medium|
+|017|[]()|[C++](./C++/017.cpp)| |
+|018|[]()|[C++](./C++/018.cpp)| |
+|019|[]()|[C++](./C++/019.cpp)| |
 
 
 
