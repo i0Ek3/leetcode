@@ -26,8 +26,11 @@ The solution of LeetCode problems, take it easy, let we fuck it up!
 |015|[3Sum](https://leetcode.com/problems/3sum/)|[C++](./C++/015.cpp)|Medium|
 |016|[3Sum closest](https://leetcode.com/problems/3sum-closest/)|[C++](./C++/016.cpp)|Medium|
 |017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[C++](./C++/017.cpp)|Medium|
-|018|[]()|[C++](./C++/018.cpp)| |
+|018|[4Sum](https://leetcode.com/problems/4sum/)|[C++](./C++/018.cpp)|Medium|
 |019|[]()|[C++](./C++/019.cpp)| |
+|020|[]()|[C++](./C++/020.cpp)| |
+|021|[]()|[C++](./C++/021.cpp)| |
+|022|[]()|[C++](./C++/022.cpp)| |
 
 
 
