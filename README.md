@@ -29,7 +29,7 @@ The solution of LeetCode problems, take it easy, let we fuck it up!
 |018|[4Sum](https://leetcode.com/problems/4sum/)|[C++](./C++/018.cpp)|Medium|
 |019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[C++](./C++/019.cpp)|Medium|
 |020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[C++](./C++/020.cpp)|Easy|
-|021|[]()|[C++](./C++/021.cpp)| |
+|021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[C++](./C++/021.cpp)|Easy|
 |022|[]()|[C++](./C++/022.cpp)| |
 
 
@@ -42,6 +42,7 @@ Whatever, you should record your thoughts or summarize your methods for review e
 - [Attention](https://github.com/i0Ek3/LeetCode/blob/master/record/attention.md)
 - [001-010](https://github.com/i0Ek3/LeetCode/blob/master/record/001-010.md)
 - [011-020](https://github.com/i0Ek3/LeetCode/blob/master/record/011-020.md)
+- [021-030](https://github.com/i0Ek3/LeetCode/blob/master/record/021-030.md)
 
 
 
