@@ -31,7 +31,7 @@ The solution of LeetCode problems, take it easy, let we fuck it up!
 |020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[C++](./C++/020.cpp)|Easy|
 |021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[C++](./C++/021.cpp)|Easy|
 |022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[C++](./C++/022.cpp)|Medium|
-|023|[]()|[C++](./C++/023.cpp)| |
+|023|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[C++](./C++/023.cpp)|Hard|
 |024|[]()|[C++](./C++/022.cpp)| |
 |025|[]()|[C++](./C++/025.cpp)| |
 
