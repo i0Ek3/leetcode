@@ -33,7 +33,11 @@ The solution of LeetCode problems, take it easy, let we fuck it up!
 |022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[C++](./C++/022.cpp)|Medium|
 |023|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[C++](./C++/023.cpp)|Hard|
 |024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[C++](./C++/024.cpp)|Medium|
-|025|[]()|[C++](./C++/025.cpp)| |
+|!025|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[C++](./C++/025.cpp)|Hard|
+|026|[Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[C++](./C++/026.cpp)|Easy|
+|027|[]()|[C++](./C++/027.cpp)| |
+|028|[]()|[C++](./C++/028.cpp)| |
+|029|[]()|[C++](./C++/029.cpp)| |
 
 
 
