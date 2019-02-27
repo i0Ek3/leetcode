@@ -38,6 +38,7 @@ The solution of LeetCode problems, take it easy, let we fuck it up!
 |027|[]()|[C++](./C++/027.cpp)| |
 |028|[]()|[C++](./C++/028.cpp)| |
 |029|[]()|[C++](./C++/029.cpp)| |
+|167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)|[C++](./C++/167.cpp)|Easy|
 
 
 
