@@ -38,9 +38,9 @@ The solution of LeetCode problems, take it easy, let we fuck it up!
 |027|[]()|[C++](./C++/027.cpp)| |
 |028|[]()|[C++](./C++/028.cpp)| |
 |031|[Next Permutation](https://leetcode.com/problems/next-permutation/)|[C++](./C++/031.cpp)|Medium|
+|032|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|[C++](./C++/032.cpp)|Hard|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)|[C++](./C++/167.cpp)|Easy|
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/)|[C++](./C++/633.cpp)|Easy|
-||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
 
 
@@ -54,6 +54,7 @@ Whatever, you should record your thoughts or summarize your methods for review e
 - [001-010](https://github.com/i0Ek3/LeetCode/blob/master/record/001-010.md)
 - [011-020](https://github.com/i0Ek3/LeetCode/blob/master/record/011-020.md)
 - [021-030](https://github.com/i0Ek3/LeetCode/blob/master/record/021-030.md)
+- Please check out the source files to look over other problems' notes.
 
 
 
