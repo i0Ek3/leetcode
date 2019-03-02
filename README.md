@@ -42,9 +42,9 @@ The solution of LeetCode problems, take it easy, let we fuck it up!
 |033|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[C++](./C++/033.cpp)|Medium|
 |034|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[C++](./C++/034.cpp)|Medium|
 |035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[C++](./C++/035.cpp)|Easy|
+|036|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[C++](./C++/036.cpp)|Medium|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)|[C++](./C++/167.cpp)|Easy|
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/)|[C++](./C++/633.cpp)|Easy|
-||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
