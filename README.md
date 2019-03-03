@@ -46,8 +46,13 @@ The solution of LeetCode problems, take it easy, let us fuck it up!
 |035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[C++](./C++/035.cpp)|Easy|
 |036|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[C++](./C++/036.cpp)|Medium|
 |037|[Sudoku](https://leetcode.com/problems/sudoku-solver/)|[C++](./C++/037.cpp)|Hard|
+|038|[Count and Say](https://leetcode.com/problems/count-and-say/)|[C++](./C++/038.cpp)|Easy|
+||[]()|[C++](./C++/.cpp)| |
+||[]()|[C++](./C++/.cpp)| |
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)|[C++](./C++/167.cpp)|Easy|
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/)|[C++](./C++/633.cpp)|Easy|
+||[]()|[C++](./C++/.cpp)| |
+||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
 
 
