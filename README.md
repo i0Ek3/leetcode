@@ -1,6 +1,6 @@
 # LeetCode
 
-The solution of LeetCode problems, take it easy, let we fuck it up!
+The solution of LeetCode problems, take it easy, let us fuck it up!
 
 >  All of LeetCode problems you can visit [here](https://leetcode.com/problemset/all/). And something you should know about coding before coding, please visit [here](https://coolshell.cn/articles/12052.html) and [here](https://selfboot.cn/2016/07/24/leetcode_guide_why/). Good luck~
 
@@ -35,18 +35,19 @@ The solution of LeetCode problems, take it easy, let we fuck it up!
 |024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[C++](./C++/024.cpp)|Medium|
 |!025|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[C++](./C++/025.cpp)|Hard|
 |026|[Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[C++](./C++/026.cpp)|Easy|
-|027|[]()|[C++](./C++/027.cpp)| |
-|028|[]()|[C++](./C++/028.cpp)| |
+|027|[]()|[C++](./C++/027.cpp)|Easy|
+|028|[]()|[C++](./C++/028.cpp)|Easy|
+|029|[]()|[C++](./C++/029.cpp)|Medium|
+|030|[]()|[C++](./C++/030.cpp)|Hard|
 |031|[Next Permutation](https://leetcode.com/problems/next-permutation/)|[C++](./C++/031.cpp)|Medium|
 |032|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|[C++](./C++/032.cpp)|Hard|
 |033|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[C++](./C++/033.cpp)|Medium|
 |034|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[C++](./C++/034.cpp)|Medium|
 |035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[C++](./C++/035.cpp)|Easy|
 |036|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[C++](./C++/036.cpp)|Medium|
+|037|[Sudoku](https://leetcode.com/problems/sudoku-solver/)|[C++](./C++/037.cpp)|Hard|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)|[C++](./C++/167.cpp)|Easy|
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/)|[C++](./C++/633.cpp)|Easy|
-||[]()|[C++](./C++/.cpp)| |
-||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
 
 
