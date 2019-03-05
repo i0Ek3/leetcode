@@ -49,9 +49,9 @@ The solution of LeetCode problems, take it easy, let us fuck it up!
 |038|[Count and Say](https://leetcode.com/problems/count-and-say/)|[C++](./C++/038.cpp)|Easy|
 |039|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[C++](./C++/039.cpp)|Media|
 |042|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[C++](./C++/042.cpp)|Hard|
+|046|[Permutations](https://leetcode.com/problems/permutations/)|[C++](./C++/046.cpp)|Medium|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)|[C++](./C++/167.cpp)|Easy|
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/)|[C++](./C++/633.cpp)|Easy|
-||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
 
