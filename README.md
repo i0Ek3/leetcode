@@ -53,7 +53,7 @@ The solution of LeetCode problems, take it easy, let us fuck it up!
 |048|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[C++](./C++/048.cpp)|Medium|
 |049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[C++](./C++/049.cpp)|Medium|
 |053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[C++](./C++/053.cpp)|Easy|
-||[]()|[C++](./C++/.cpp)| |
+|055|[Jump Game](https://leetcode.com/problems/jump-game/)|[C++](./C++/055.cpp)|Medium|
 ||[]()|[C++](./C++/.cpp)| |
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)|[C++](./C++/167.cpp)|Easy|
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/)|[C++](./C++/633.cpp)|Easy|
