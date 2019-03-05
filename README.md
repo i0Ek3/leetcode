@@ -51,7 +51,7 @@ The solution of LeetCode problems, take it easy, let us fuck it up!
 |042|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[C++](./C++/042.cpp)|Hard|
 |046|[Permutations](https://leetcode.com/problems/permutations/)|[C++](./C++/046.cpp)|Medium|
 |048|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[C++](./C++/048.cpp)|Medium|
-||[]()|[C++](./C++/.cpp)| |
+|049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[C++](./C++/049.cpp)|Medium|
 ||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
