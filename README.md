@@ -58,7 +58,7 @@ The solution of LeetCode problems, take it easy, let us fuck it up!
 |062|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[C++](./C++/062.cpp)|Medium|
 |064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[C++](./C++/064.cpp)|Medium|
 |070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[C++](./C++/070.cpp)|Easy|
-||[]()|[C++](./C++/.cpp)| |
+|072|[Edit Distance](https://leetcode.com/problems/edit-distance/)|[C++](./C++/072.cpp)|Hard|
 ||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
