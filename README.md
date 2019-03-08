@@ -59,7 +59,7 @@ The solution of LeetCode problems, take it easy, let us fuck it up!
 |064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[C++](./C++/064.cpp)|Medium|
 |070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[C++](./C++/070.cpp)|Easy|
 |072|[Edit Distance](https://leetcode.com/problems/edit-distance/)|[C++](./C++/072.cpp)|Hard|
-||[]()|[C++](./C++/.cpp)| |
+|075|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[C++](./C++/075.cpp)|Medium|
 ||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)|[C++](./C++/167.cpp)|Easy|
