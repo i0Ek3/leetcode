@@ -61,7 +61,7 @@ The solution of LeetCode problems, take it easy, let us fuck it up!
 |072|[Edit Distance](https://leetcode.com/problems/edit-distance/)|[C++](./C++/072.cpp)|Hard|
 |075|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[C++](./C++/075.cpp)|Medium|
 |076|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[C++](./C++/076.cpp)|Hard|
-||[]()|[C++](./C++/.cpp)| |
+|078|[Subsets](https://leetcode.com/problems/subsets/)|[C++](./C++/078.cpp)|Medium|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)|[C++](./C++/167.cpp)|Easy|
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/)|[C++](./C++/633.cpp)|Easy|
 ||[]()|[C++](./C++/.cpp)| |
