@@ -63,9 +63,9 @@ The solution of LeetCode problems, take it easy, let us fuck it up!
 |076|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[C++](./C++/076.cpp)|Hard|
 |078|[Subsets](https://leetcode.com/problems/subsets/)|[C++](./C++/078.cpp)|Medium|
 |079|[Word Search](https://leetcode.com/problems/word-search/)|[C++](./C++/079.cpp)|Medium|
+|084|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[C++](./C++/084.cpp)|Hard|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)|[C++](./C++/167.cpp)|Easy|
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/)|[C++](./C++/633.cpp)|Easy|
-||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
 
