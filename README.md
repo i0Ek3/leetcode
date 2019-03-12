@@ -35,9 +35,9 @@ The solution of LeetCode problems, take it easy, let us fuck it up!
 |024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[C++](./C++/024.cpp)|Medium|
 |!025|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[C++](./C++/025.cpp)|Hard|
 |026|[Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[C++](./C++/026.cpp)|Easy|
-|027|[]()|[C++](./C++/027.cpp)|Easy|
-|028|[]()|[C++](./C++/028.cpp)|Easy|
-|029|[]()|[C++](./C++/029.cpp)|Medium|
+|027|[]()|[C++](./C++/027.cpp)|Medium|
+|028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[C++](./C++/028.cpp)|Easy|
+|029|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[C++](./C++/029.cpp)|Medium|
 |030|[]()|[C++](./C++/030.cpp)|Hard|
 |031|[Next Permutation](https://leetcode.com/problems/next-permutation/)|[C++](./C++/031.cpp)|Medium|
 |032|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|[C++](./C++/032.cpp)|Hard|
@@ -67,6 +67,11 @@ The solution of LeetCode problems, take it easy, let us fuck it up!
 |088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[C++](./C++/088.cpp)|Easy|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)|[C++](./C++/167.cpp)|Easy|
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/)|[C++](./C++/633.cpp)|Easy|
+||[]()|[C++](./C++/.cpp)| |
+||[]()|[C++](./C++/.cpp)| |
+||[]()|[C++](./C++/.cpp)| |
+||[]()|[C++](./C++/.cpp)| |
+||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
 
 
