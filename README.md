@@ -68,9 +68,9 @@ The solution of LeetCode problems, take it easy, let us fuck it up!
 |084|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[C++](./C++/084.cpp)|Hard|
 |088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[C++](./C++/088.cpp)|Easy|
 |!091|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[C++](./C++/091.cpp)|Medium|
+|094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[C++](./C++/094.cpp)|Medium|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)|[C++](./C++/167.cpp)|Easy|
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/)|[C++](./C++/633.cpp)|Easy|
-||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
 
