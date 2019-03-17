@@ -70,9 +70,9 @@ The solution of LeetCode problems, take it easy, let us fuck it up!
 |!091|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[C++](./C++/091.cpp)|Medium|
 |094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[C++](./C++/094.cpp)|Medium|
 |098|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[C++](./C++/098.cpp)|Medium|
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[C++](./C++/101.cpp)|Easy|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)|[C++](./C++/167.cpp)|Easy|
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/)|[C++](./C++/633.cpp)|Easy|
-||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
