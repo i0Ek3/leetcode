@@ -1,5 +1,7 @@
 # LeetCode
 
+[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+
 The solution of LeetCode problems, take it easy, let us fuck it up!
 
 >  All of LeetCode problems you can visit [here](https://leetcode.com/problemset/all/). And something you should know about coding before coding, please visit [here](https://coolshell.cn/articles/12052.html) and [here](https://selfboot.cn/2016/07/24/leetcode_guide_why/). Good luck~
