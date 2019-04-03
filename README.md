@@ -88,8 +88,13 @@ The solution of LeetCode problems, take it easy, let us fuck it up!
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[C++](./C++/128.cpp) [Python](./Python/128.py)|Hard|
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[C++](./C++/130.cpp)|Medium|
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[C++](./C++/131.cpp)|Medium|
+|!134|[Gas Station](https://leetcode.com/problems/gas-station/)|[C++](./C++/134.cpp)|Medium|
+|136|[Single Number](https://leetcode.com/problems/single-number/)|[C++](./C++/136.cpp)|Easy|
+|!138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[C++](./C++/138.cpp)|Medium|
+|146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|[C++](./C++/146.cpp)|Hard|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)|[C++](./C++/167.cpp)|Easy|
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/)|[C++](./C++/633.cpp)|Easy|
+||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
