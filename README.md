@@ -92,9 +92,14 @@ The solution of LeetCode problems, take it easy, let us fuck it up!
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[C++](./C++/136.cpp)|Easy|
 |!138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[C++](./C++/138.cpp)|Medium|
 |139|[Word Break](https://leetcode.com/problems/word-break/)|[C++](./C++/139.cpp)|Medium|
+|!140|[Word Break II](https://leetcode.com/problems/word-break-ii/)|[C++](./C++/140.cpp)|Hard|
+|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[C++](./C++/141.cpp)|Easy|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|[C++](./C++/146.cpp)|Hard|
+|148|[Sort List](https://leetcode.com/problems/sort-list/)|[C++](./C++/148.cpp)|Medium|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)|[C++](./C++/167.cpp)|Easy|
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/)|[C++](./C++/633.cpp)|Easy|
+||[]()|[C++](./C++/.cpp)| |
+||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
