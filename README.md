@@ -6,6 +6,7 @@ The solution of LeetCode problems, take it easy, let us fuck it up!
 
 >  All of LeetCode problems you can visit [here](https://leetcode.com/problemset/all/). And something you should know about coding before coding, please visit [here](https://coolshell.cn/articles/12052.html) and [here](https://selfboot.cn/2016/07/24/leetcode_guide_why/). Good luck~
 
+And [here](http://206.81.6.248:12306/leetcode/algorithm) can visit all problems of LeetCode which include locked ones.
 
 ## Problems
 
@@ -96,10 +97,10 @@ The solution of LeetCode problems, take it easy, let us fuck it up!
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[C++](./C++/141.cpp)|Easy|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|[C++](./C++/146.cpp)|Hard|
 |148|[Sort List](https://leetcode.com/problems/sort-list/)|[C++](./C++/148.cpp)|Medium|
+|!149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)|[C++](./C++/149.cpp)|Hard|
+|150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[C++](./C++/150.cpp)|Medium|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)|[C++](./C++/167.cpp)|Easy|
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/)|[C++](./C++/633.cpp)|Easy|
-||[]()|[C++](./C++/.cpp)| |
-||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
