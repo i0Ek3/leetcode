@@ -99,8 +99,13 @@ And [here](http://206.81.6.248:12306/leetcode/algorithm) can visit all problems 
 |148|[Sort List](https://leetcode.com/problems/sort-list/)|[C++](./C++/148.cpp)|Medium|
 |!149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)|[C++](./C++/149.cpp)|Hard|
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[C++](./C++/150.cpp)|Medium|
+|152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[C++](./C++/152.cpp)|Medium|
+|155|[Min Stack](https://leetcode.com/problems/min-stack/)|[C++](./C++/155.cpp)|Easy|
+|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists)|[C++](./C++/160.cpp)|Easy|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)|[C++](./C++/167.cpp)|Easy|
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/)|[C++](./C++/633.cpp)|Easy|
+||[]()|[C++](./C++/.cpp)| |
+||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
