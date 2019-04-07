@@ -86,7 +86,7 @@ And [here](http://206.81.6.248:12306/leetcode/algorithm) can visit all problems 
 |124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[C++](./C++/124.cpp)|Hard|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[C++](./C++/125.cpp)|Easy|
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/)|[C++](./C++/127.cpp)|Medium|
-|128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[C++](./C++/128.cpp) [Python](./Python/128.py)|Hard|
+|128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[C++](./C++/128.cpp), [Python](./Python/128.py)|Hard|
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[C++](./C++/130.cpp)|Medium|
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[C++](./C++/131.cpp)|Medium|
 |!134|[Gas Station](https://leetcode.com/problems/gas-station/)|[C++](./C++/134.cpp)|Medium|
@@ -102,9 +102,14 @@ And [here](http://206.81.6.248:12306/leetcode/algorithm) can visit all problems 
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[C++](./C++/152.cpp)|Medium|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)|[C++](./C++/155.cpp)|Easy|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists)|[C++](./C++/160.cpp)|Easy|
+|162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[C++](./C++/162.cpp)|Medium|
+|[🔒]163|[Missing Ranges](http://leetcode.liangjiateng.cn/leetcode/missing-ranges/description)|[C++](./C++/163.cpp)|Medium|
+|166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)|[C++](./C++/166.cpp)|Medium|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)|[C++](./C++/167.cpp)|Easy|
+|169|[Majority Element](https://leetcode.com/problems/majority-element/)|[C++](./C++/169.cpp)|Easy|
+|171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[C++](./C++/171.cpp)|Easy|
+|172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|[C++](./C++/172.cpp)|Easy|
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/)|[C++](./C++/633.cpp)|Easy|
-||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
