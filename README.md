@@ -110,9 +110,9 @@ And [here](http://206.81.6.248:12306/leetcode/algorithm) can visit all problems 
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[C++](./C++/171.cpp)|Easy|
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|[C++](./C++/172.cpp)|Easy|
 |💊179|[Largest Number](https://leetcode.com/problems/largest-number/)|[C++](./C++/179.cpp)|Medium|
+|189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[C++](./C++/189.cpp)|Easy|
+|190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[C++](./C++/190.cpp)|Easy|
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/)|[C++](./C++/633.cpp)|Easy|
-||[]()|[C++](./C++/.cpp)| |
-||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
 
 
