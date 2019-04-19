@@ -112,7 +112,17 @@ And [here](http://206.81.6.248:12306/leetcode/algorithm) can visit all problems 
 |💊179|[Largest Number](https://leetcode.com/problems/largest-number/)|[C++](./C++/179.cpp)|Medium|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[C++](./C++/189.cpp)|Easy|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[C++](./C++/190.cpp)|Easy|
+|191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[C++](./C++/191.cpp)|Easy|
+|198|[House Robber](https://leetcode.com/problems/house-robber/)|[C++](./C++/198.cpp)|Easy|
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/)|[C++](./C++/633.cpp)|Easy|
+||[]()|[C++](./C++/.cpp)| |
+||[]()|[C++](./C++/.cpp)| |
+||[]()|[C++](./C++/.cpp)| |
+||[]()|[C++](./C++/.cpp)| |
+||[]()|[C++](./C++/.cpp)| |
+||[]()|[C++](./C++/.cpp)| |
+||[]()|[C++](./C++/.cpp)| |
+||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
 
 
