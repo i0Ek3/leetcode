@@ -115,8 +115,8 @@ And [here](http://206.81.6.248:12306/leetcode/algorithm) can visit all problems 
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[C++](./C++/191.cpp)|Easy|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|[C++](./C++/198.cpp)|Easy|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[C++](./C++/200.cpp)|Medium|
+|💊202|[Happy Number](https://leetcode.com/problems/happy-number/)|[C++](./C++/202.cpp)|Easy|
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/)|[C++](./C++/633.cpp)|Easy|
-||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
