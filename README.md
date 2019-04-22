@@ -118,7 +118,7 @@ And [here](http://206.81.6.248:12306/leetcode/algorithm) can visit all problems 
 |💊202|[Happy Number](https://leetcode.com/problems/happy-number/)|[C++](./C++/202.cpp)|Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[C++](./C++/206.cpp)|Easy|
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/)|[C++](./C++/633.cpp)|Easy|
-||[]()|[C++](./C++/.cpp)| |
+|207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[C++](./C++/207.cpp)|Medium|
 ||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
