@@ -117,9 +117,9 @@ And [here](http://206.81.6.248:12306/leetcode/algorithm) can visit all problems 
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[C++](./C++/200.cpp)|Medium|
 |💊202|[Happy Number](https://leetcode.com/problems/happy-number/)|[C++](./C++/202.cpp)|Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[C++](./C++/206.cpp)|Easy|
+|💊207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[C++](./C++/207.cpp)|Medium|
+|208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[C++](./C++/208.cpp)|Medium|
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/)|[C++](./C++/633.cpp)|Easy|
-|207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[C++](./C++/207.cpp)|Medium|
-||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
