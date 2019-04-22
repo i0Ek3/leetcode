@@ -27,6 +27,7 @@ public:
 
 class Trie {
     TrieNode *root;
+
 public:
     Trie() {
         root = new TrieNode();
@@ -34,23 +35,24 @@ public:
 
     void insert(string word) {
         TrieNode *p = root;
-        for (int i = 0; i < s.size(); ++i) {
-            if (p->next[s[i] - 'a'] == nullptr) {
-                p->next[s[i] - 'a'] = new TrieNode();
+        for (int i = 0; i < word.size(); ++i) {
+            if (p->next[word[i] - 'a'] == nullptr) {
+                p->next[word[i] - 'a'] = new TrieNode();
             }
-            p = p->next[s[i] - 'a'];
+            p = p->next[word[i] - 'a'];
         }
         p->isWord = true;
     }
 
     bool search(string word) {
-        TrieNode *p = find(key);
+        TrieNode *p = find(word);
         return p != nullptr && p->isWord;
     }
 
     bool startWith(string prefix) {
         return find(prefix) != nullptr;
     }
+
 private:
     TrieNode* find(string key) {
         TrieNode *p = root;
