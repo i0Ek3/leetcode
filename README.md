@@ -123,9 +123,9 @@ And [here](http://206.81.6.248:12306/leetcode/algorithm) can visit all problems 
 |212💊|[Word Search II](https://leetcode.com/problems/word-search-ii/)|[C++](./C++/212.cpp)|Hard|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[C++](./C++/215.cpp)|Medium|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[C++](./C++/217.cpp)|Easy|
+|218💊|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)|[C++](./C++/218.cpp)|Hard|
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/)|[C++](./C++/633.cpp)|Easy|
-||[]()|[C++](./C++/.cpp)| |
-||[]()|[C++](./C++/.cpp)| |
+|227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[C++](./C++/227.cpp)|Medium|
 ||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
