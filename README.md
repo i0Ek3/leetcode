@@ -131,6 +131,25 @@ And [here](http://206.81.6.248:12306/leetcode/algorithm) can visit all problems 
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[C++](./C++/237.cpp)|Easy|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[C++](./C++/238.cpp)|Medium|
 |239💊|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[C++](./C++/239.cpp)|Hard|
+|240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[C++](./C++/240.cpp)|Medium|
+|242💊|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[C++](./C++/242.cpp)|Easy|
+|251🔒|[Flatten 2D Vector](http://206.81.6.248:12306/leetcode/flatten-2d-vector/description)|[C++](./C++/251.cpp)|Medium|
+|253🔒|[Meeting Rooms II](http://206.81.6.248:12306/leetcode/meeting-rooms-ii/description)|[C++](./C++/253.cpp)|Medium|
+|268|[Missing Number](https://leetcode.com/problems/missing-number/)|[C++](./C++/268.cpp)|Easy|
+|269🔒|[Alien Dictionary](http://206.81.6.248:12306/leetcode/alien-dictionary/description)|[C++](./C++/269.cpp)|Hard|
+|277🔒|[Find the Celebrity](http://206.81.6.248:12306/leetcode/find-the-celebrity/description)|[C++](./C++/277.cpp)|Medium|
+|279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[C++](./C++/279.cpp)|Medium|
+||[]()|[C++](./C++/.cpp)| |
+||[]()|[C++](./C++/.cpp)| |
+||[]()|[C++](./C++/.cpp)| |
+||[]()|[C++](./C++/.cpp)| |
+||[]()|[C++](./C++/.cpp)| |
+||[]()|[C++](./C++/.cpp)| |
+||[]()|[C++](./C++/.cpp)| |
+||[]()|[C++](./C++/.cpp)| |
+||[]()|[C++](./C++/.cpp)| |
+||[]()|[C++](./C++/.cpp)| |
+||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/)|[C++](./C++/633.cpp)|Easy|
