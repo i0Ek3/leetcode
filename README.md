@@ -139,9 +139,9 @@ And [here](http://206.81.6.248:12306/leetcode/algorithm) can visit all problems 
 |269🔒|[Alien Dictionary](http://206.81.6.248:12306/leetcode/alien-dictionary/description)|[C++](./C++/269.cpp)|Hard|
 |277🔒|[Find the Celebrity](http://206.81.6.248:12306/leetcode/find-the-celebrity/description)|[C++](./C++/277.cpp)|Medium|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[C++](./C++/279.cpp)|Medium|
-||[]()|[C++](./C++/.cpp)| |
-||[]()|[C++](./C++/.cpp)| |
-||[]()|[C++](./C++/.cpp)| |
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[C++](./C++/283.cpp)|Easy|
+|287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[C++](./C++/287.cpp)|Medium|
+|289|[Game of Life](https://leetcode.com/problems/game-of-life/)|[C++](./C++/289.cpp)|Medium|
 ||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
