@@ -142,6 +142,25 @@ And [here](http://206.81.6.248:12306/leetcode/algorithm) can visit all problems 
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[C++](./C++/283.cpp)|Easy|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[C++](./C++/287.cpp)|Medium|
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/)|[C++](./C++/289.cpp)|Medium|
+|295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[C++](./C++/295.cpp)|Hard|
+|297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[C++](./C++/297.cpp)|Hard|
+|300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[C++](./C++/300.cpp)|Medium|
+|315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|[C++](./C++/315.cpp)|Hard|
+|322|[Coin Challenge](https://leetcode.com/problems/coin-change/)|[C++](./C++/322.cpp)|Medium|
+|324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)|[C++](./C++/324.cpp)|Medium|
+|326|[Power of Three](https://leetcode.com/problems/power-of-three/)|[C++](./C++/326.cpp)|Easy|
+|328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[C++](./C++/328.cpp)|Medium|
+|329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|[C++](./C++/329.cpp)|Hard|
+|334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|[C++](./C++/334.cpp)|Medium|
+|341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|[C++](./C++/341.cpp)|Medium|
+|344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[C++](./C++/344.cpp)|Easy|
+|347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[C++](./C++/347.cpp)|Medium|
+|350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[C++](./C++/350.cpp)|Easy|
+|371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[C++](./C++/371.cpp)|Easy|
+|378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[C++](./C++/378.cpp)|Medium|
+|380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[C++](./C++/380.cpp)|Medium|
+||[]()|[C++](./C++/.cpp)| |
+||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
