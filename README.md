@@ -159,11 +159,11 @@ And [here](http://206.81.6.248:12306/leetcode/algorithm) can visit all problems 
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[C++](./C++/371.cpp)|Easy|
 |378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[C++](./C++/378.cpp)|Medium|
 |380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[C++](./C++/380.cpp)|Medium|
-||[]()|[C++](./C++/.cpp)| |
-||[]()|[C++](./C++/.cpp)| |
-||[]()|[C++](./C++/.cpp)| |
-||[]()|[C++](./C++/.cpp)| |
-||[]()|[C++](./C++/.cpp)| |
+|384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|[C++](./C++/384.cpp)|Medium|
+|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[C++](./C++/387.cpp)|Easy|
+|395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|[C++](./C++/395.cpp)|Medium|
+|412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[C++](./C++/412.cpp)|Easy|
+|454|[4Sum II](https://leetcode.com/problems/4sum-ii/)|[C++](./C++/454.cpp)|Medium|
 ||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
