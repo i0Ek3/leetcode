@@ -69,9 +69,11 @@ And [here](http://206.81.6.248:12306/leetcode/algorithm) can visit all problems 
 |078|[Subsets](https://leetcode.com/problems/subsets/)|[C++](./C++/078.cpp)|Medium|
 |079|[Word Search](https://leetcode.com/problems/word-search/)|[C++](./C++/079.cpp)|Medium|
 |084|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[C++](./C++/084.cpp)|Hard|
+|085💊|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)|[C++](./C++/085.cpp)|Hard|
 |088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[C++](./C++/088.cpp)|Easy|
 |091💊|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[C++](./C++/091.cpp)|Medium|
 |094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[C++](./C++/094.cpp)|Medium|
+|096|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[C++](./C++/096.cpp)|Medium|
 |098|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[C++](./C++/098.cpp)|Medium|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[C++](./C++/101.cpp)|Easy|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[C++](./C++/102.cpp)|Medium|
@@ -79,6 +81,7 @@ And [here](http://206.81.6.248:12306/leetcode/algorithm) can visit all problems 
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[C++](./C++/104.cpp)|Easy|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[C++](./C++/105.cpp)|Medium|
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[C++](./C++/108.cpp)|Easy|
+|114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[C++](./C++/114.cpp)|Medium|
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[C++](./C++/116.cpp)|Medium|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[C++](./C++/118.cpp)|Easy|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[C++](./C++/121.cpp)|Easy|
@@ -164,9 +167,6 @@ And [here](http://206.81.6.248:12306/leetcode/algorithm) can visit all problems 
 |395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|[C++](./C++/395.cpp)|Medium|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[C++](./C++/412.cpp)|Easy|
 |454|[4Sum II](https://leetcode.com/problems/4sum-ii/)|[C++](./C++/454.cpp)|Medium|
-||[]()|[C++](./C++/.cpp)| |
-||[]()|[C++](./C++/.cpp)| |
-||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
