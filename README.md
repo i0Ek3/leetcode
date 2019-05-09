@@ -98,6 +98,7 @@ And [here](http://206.81.6.248:12306/leetcode/algorithm) can visit all problems 
 |139|[Word Break](https://leetcode.com/problems/word-break/)|[C++](./C++/139.cpp)|Medium|
 |140💊|[Word Break II](https://leetcode.com/problems/word-break-ii/)|[C++](./C++/140.cpp)|Hard|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[C++](./C++/141.cpp)|Easy|
+|142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[C++](./C++/142.cpp)|Medium|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|[C++](./C++/146.cpp)|Hard|
 |148|[Sort List](https://leetcode.com/problems/sort-list/)|[C++](./C++/148.cpp)|Medium|
 |149💊|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)|[C++](./C++/149.cpp)|Hard|
@@ -127,6 +128,8 @@ And [here](http://206.81.6.248:12306/leetcode/algorithm) can visit all problems 
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[C++](./C++/215.cpp)|Medium|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[C++](./C++/217.cpp)|Easy|
 |218💊|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)|[C++](./C++/218.cpp)|Hard|
+|221|[Maximal Square](https://leetcode.com/problems/maximal-square/)|[C++](./C++/221.cpp)|Medium|
+|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[C++](./C++/226.cpp)|Easy|
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[C++](./C++/227.cpp)|Medium|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[C++](./C++/230.cpp)|Medium|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[C++](./C++/234.cpp)|Easy|
@@ -148,6 +151,9 @@ And [here](http://206.81.6.248:12306/leetcode/algorithm) can visit all problems 
 |295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[C++](./C++/295.cpp)|Hard|
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[C++](./C++/297.cpp)|Hard|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[C++](./C++/300.cpp)|Medium|
+|301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)|[C++](./C++/301.cpp)|Hard|
+|309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[C++](./C++/309.cpp)|Medium|
+|312|[Burst Balloons](https://leetcode.com/problems/burst-balloons/)|[C++](./C++/312.cpp)|Hard|
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|[C++](./C++/315.cpp)|Hard|
 |322|[Coin Challenge](https://leetcode.com/problems/coin-change/)|[C++](./C++/322.cpp)|Medium|
 |324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)|[C++](./C++/324.cpp)|Medium|
@@ -155,6 +161,8 @@ And [here](http://206.81.6.248:12306/leetcode/algorithm) can visit all problems 
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[C++](./C++/328.cpp)|Medium|
 |329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|[C++](./C++/329.cpp)|Hard|
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|[C++](./C++/334.cpp)|Medium|
+|337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|[C++](./C++/337.cpp)|Medium|
+|338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[C++](./C++/338.cpp)|Medium|
 |341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|[C++](./C++/341.cpp)|Medium|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[C++](./C++/344.cpp)|Easy|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[C++](./C++/347.cpp)|Medium|
@@ -164,14 +172,38 @@ And [here](http://206.81.6.248:12306/leetcode/algorithm) can visit all problems 
 |380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[C++](./C++/380.cpp)|Medium|
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|[C++](./C++/384.cpp)|Medium|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[C++](./C++/387.cpp)|Easy|
+|394|[Decode String](https://leetcode.com/problems/decode-string/)|[C++](./C++/394.cpp)|Medium|
 |395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|[C++](./C++/395.cpp)|Medium|
+|399💊|[Evaluate Division](https://leetcode.com/problems/evaluate-division/)|[C++](./C++/399.cpp)|Medium|
+|406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|[C++](./C++/406.cpp)|Medium|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[C++](./C++/412.cpp)|Easy|
+|416💊|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)|[C++](./C++/416.cpp)|Medium|
+|437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/)|[C++](./C++/437.cpp)|Easy|
+|438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[C++](./C++/438.cpp)|Easy|
+|448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[C++](./C++/448.cpp)|Easy|
 |454|[4Sum II](https://leetcode.com/problems/4sum-ii/)|[C++](./C++/454.cpp)|Medium|
-||[]()|[C++](./C++/.cpp)| |
-||[]()|[C++](./C++/.cpp)| |
-||[]()|[C++](./C++/.cpp)| |
-||[]()|[C++](./C++/.cpp)| |
+|461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[C++](./C++/461.cpp)|Easy|
+|494|[Target Sum](https://leetcode.com/problems/target-sum/)|[C++](./C++/494.cpp)|Medium|
+|538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/|[C++](./C++/538.cpp)|Easy|
+|543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[C++](./C++/543.cpp)|Easy|
+|560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[C++](./C++/560.cpp)|Medium|
+|581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[C++](./C++/581.cpp)|Easy|
+|617|[Merge Two Binary Tree](https://leetcode.com/problems/merge-two-binary-trees/)|[C++](./C++/617.cpp)|Easy|
+|621|[Task Scheduler](https://leetcode.com/problems/task-scheduler/)|[C++](./C++/621.cpp)|Medium|
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/)|[C++](./C++/633.cpp)|Easy|
+|647|[lindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[C++](./C++/647.cpp)|Medium|
+|739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[C++](./C++/739.cpp)|Medium|
+||[]()|[C++](./C++/.cpp)| |
+||[]()|[C++](./C++/.cpp)| |
+||[]()|[C++](./C++/.cpp)| |
+||[]()|[C++](./C++/.cpp)| |
+||[]()|[C++](./C++/.cpp)| |
+||[]()|[C++](./C++/.cpp)| |
+||[]()|[C++](./C++/.cpp)| |
+||[]()|[C++](./C++/.cpp)| |
+||[]()|[C++](./C++/.cpp)| |
+||[]()|[C++](./C++/.cpp)| |
+||[]()|[C++](./C++/.cpp)| |
 
 
 
