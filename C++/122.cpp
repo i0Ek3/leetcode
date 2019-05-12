@@ -7,10 +7,10 @@ class Solution {
 public:
     int maxProfit(vector<int>& prices) {
         if (prices.size() < 2) return 0;
-        int maxProfit = 0;
+        int sell = 0;
         for (auto i = 1; i < prices.size(); ++i) {
-            maxProfit += max(0, prices[i] - prices[i-1]);
+            sell += max(0, prices[i] - prices[i-1]);
         }
-        return maxProfit;
+        return sell;
     }
 };

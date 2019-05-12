@@ -86,6 +86,7 @@ And [here](http://206.81.6.248:12306/leetcode/algorithm) can visit all problems 
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[C++](./C++/118.cpp)|Easy|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[C++](./C++/121.cpp)|Easy|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[C++](./C++/122.cpp)|Easy|
+|123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|[C++](./C++/123.cpp)|Hard|
 |124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[C++](./C++/124.cpp)|Hard|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[C++](./C++/125.cpp)|Easy|
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/)|[C++](./C++/127.cpp)|Medium|
@@ -184,14 +185,14 @@ And [here](http://206.81.6.248:12306/leetcode/algorithm) can visit all problems 
 |454|[4Sum II](https://leetcode.com/problems/4sum-ii/)|[C++](./C++/454.cpp)|Medium|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[C++](./C++/461.cpp)|Easy|
 |494|[Target Sum](https://leetcode.com/problems/target-sum/)|[C++](./C++/494.cpp)|Medium|
-|538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/|[C++](./C++/538.cpp)|Easy|
+|538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)|[C++](./C++/538.cpp)|Easy|
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[C++](./C++/543.cpp)|Easy|
 |560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[C++](./C++/560.cpp)|Medium|
 |581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[C++](./C++/581.cpp)|Easy|
 |617|[Merge Two Binary Tree](https://leetcode.com/problems/merge-two-binary-trees/)|[C++](./C++/617.cpp)|Easy|
 |621|[Task Scheduler](https://leetcode.com/problems/task-scheduler/)|[C++](./C++/621.cpp)|Medium|
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/)|[C++](./C++/633.cpp)|Easy|
-|647|[lindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[C++](./C++/647.cpp)|Medium|
+|647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[C++](./C++/647.cpp)|Medium|
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[C++](./C++/739.cpp)|Medium|
 ||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |

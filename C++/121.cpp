@@ -8,12 +8,12 @@
 class Solution {
 public:
     int maxProfit(vectot<int>& prices) {
-        int maxProfit = 0;
-        int minPrice = INT_MAX;
+        int sell = 0;
+        int buy = INT_MAX;
         for (int i = 0; i < prices.size(); ++i) {
-            minPrice = min(minPrice, prices[i]);
-            maxProfit = max(maxProfit, prices[i] - minPrice);
+            buy = min(buy, prices[i]);
+            sell = max(sell, prices[i] - buy);
         }
-        return maxProfit;
+        return sell;
     }
 };
