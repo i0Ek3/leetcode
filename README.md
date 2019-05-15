@@ -165,6 +165,7 @@ And [here](http://206.81.6.248:12306/leetcode/algorithm) can visit all problems 
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|[C++](./C++/337.cpp)|Medium|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[C++](./C++/338.cpp)|Medium|
 |341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|[C++](./C++/341.cpp)|Medium|
+|342|[Power of Four](https://leetcode.com/problems/power-of-four/submissions/)|[C++](./C++/342.cpp)|Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[C++](./C++/344.cpp)|Easy|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[C++](./C++/347.cpp)|Medium|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[C++](./C++/350.cpp)|Easy|
@@ -194,7 +195,6 @@ And [here](http://206.81.6.248:12306/leetcode/algorithm) can visit all problems 
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/)|[C++](./C++/633.cpp)|Easy|
 |647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[C++](./C++/647.cpp)|Medium|
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[C++](./C++/739.cpp)|Medium|
-||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
