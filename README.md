@@ -4,9 +4,12 @@
 
 The solution of LeetCode problems, take it easy, let us fuck it up!
 
->  All of LeetCode problems you can visit [here](https://leetcode.com/problemset/all/). And something you should know about coding before coding, please visit [here](https://coolshell.cn/articles/12052.html) and [here](https://selfboot.cn/2016/07/24/leetcode_guide_why/). Good luck~
+All of LeetCode problems you can visit [here](https://leetcode.com/problemset/all/) but without locked ones, if you want to locked ones, please visit [here](http://206.81.6.248:12306/leetcode/algorithm).
 
-And [here](http://206.81.6.248:12306/leetcode/algorithm) can visit all problems of LeetCode which include locked ones.
+Some stuffs about coding, please visit [here](https://coolshell.cn/articles/12052.html) and [here](https://selfboot.cn/2016/07/24/leetcode_guide_why/). Good luck~
+
+This [website](https://www.acwing.com) is awesome, please.
+
 
 ## Problems
 
