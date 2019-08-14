@@ -7,7 +7,7 @@
 class Solution {
     public:
         int maxDepth(TreeNode* root) {
-            if (root == nullptr) return 0;
+            if (!root) return 0;
             return root ? max(maxDepth(root->left), maxDepth(root->right)) + 1 : 0;
         }
 };
