@@ -210,22 +210,6 @@ This [website](https://www.acwing.com) is awesome, please.
 ||[]()|[C++](./C++/.cpp)| |
 ||[]()|[C++](./C++/.cpp)| |
 
-
-
-
-## Record
-
-Whatever, you should record your thoughts or summarize your methods for review easily.
-
-- [Attention](https://github.com/i0Ek3/LeetCode/blob/master/record/attention.md)
-- [001-010](https://github.com/i0Ek3/LeetCode/blob/master/record/001-010.md)
-- [011-020](https://github.com/i0Ek3/LeetCode/blob/master/record/011-020.md)
-- [021-030](https://github.com/i0Ek3/LeetCode/blob/master/record/021-030.md)
-- Please check out the source files to look over other problems' notes.
-
-
-
-
 ## Credit
 
 > Thanks to these guys for highly quality LeetCode solutions.
