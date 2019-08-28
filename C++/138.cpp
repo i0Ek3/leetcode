@@ -11,6 +11,35 @@
 // 真是优秀啊，我就是想不到。
 //
 
+struct Node {
+    int val;
+    Node *next, *random;
+    Node(int x) : val(x), next(nullptr), random(nullptr) {}
+};
+
+class Solution-Node {
+public:
+    Node *copyRandomList(Node *head) {
+        unordered_map<Node*, Node*> map;
+        Node dummy(0), *next = &dummy;
+        for (; head; next = next->next, head = head->next) {
+            if (map[head] == nullptr) {
+                Node *node = new Node(head->val);
+                map[head] = node;
+            }
+            next->next = map[head];
+            if (head->random && !map[head->random]) {
+                Node *node = new Node(head->random->val);
+                map[head->random] = node;
+            }
+            map[head]->random = map[head->random];
+        }
+        return dummy.next;
+    }
+};
+
+
+
 class Solution {
 public:
     Node* copyRandomList(Node* head) {
@@ -18,7 +47,7 @@ public:
         Node* p = head;
         Node* t = NULL;
         while (p) {
-            Node *cloned = new Node(p->label);
+            Node *cloned = new Node(p->val);
             cloned->next = p->next;
             p->next = cloned;
             p = cloned->next;

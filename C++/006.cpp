@@ -10,6 +10,28 @@
 
 class Solution {
 public:
+    string convert(string s, int num) {
+        if (num == 1) return s;
+        vector<string> row(min(num, int(s.size())));
+        int cur = 0;
+        bool down = false;
+
+        for (char c : s) {
+            row[cur] += c;
+            if (cur == 0 || cur == num - 1)
+                down = !down;
+            cur += down ? 1 : -1;
+        }
+
+        string res;
+        for (auto i : row)
+            res += i;
+        return res;
+    }
+};
+
+class Solution {
+public:
     string convert(string s, int numRows) {
         if (numRows == 1) return s;
         vector<string> v(numRows);

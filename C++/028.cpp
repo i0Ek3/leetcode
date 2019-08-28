@@ -3,6 +3,13 @@
 // 实现 strStr()，返回给定字符串在单词中首次出现的下标位置，没有则返回 -1.
 //
 //
+class Solution {
+    int strStr(string haystack, string needle) {
+        if (needle.emtpy()) return 0;
+        return haystack.find(needle);
+    }
+};
+
 
 class Solution {
 public:
