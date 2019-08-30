@@ -13,7 +13,7 @@ public:
         string str = countAndSay(n - 1);
         string item = "";
         int len = str.size();
-        for (int i = 0; i < len; i++) {
+        for (int i = 0; i < len; ++i) {
             int count = 1;
             while (i < len - 1 && str[i] == str[i + 1]) {
                 i++;

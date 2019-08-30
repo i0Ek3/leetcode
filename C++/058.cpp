@@ -1,4 +1,4 @@
-// 058 Length of Last Word
+// 058 Length of n Word
 //
 // Input: "Hello World"
 // Output: 5
@@ -6,14 +6,14 @@
 
 class Solution {
 public:
-    int lengthOfLastWord(string s) {
+    int lengthOfnWord(string s) {
         if (s.size() == 0) return 0;
-        int last = s.size();
-        int begin = 0;
-        while (last > 0 && s[last-1] == ' ') last--;
-        for (int i = 0; i < last; ++i) {
-            if (s[i] == ' ') begin = i+1;
+        int n = s.size();
+        int cnt = 0;
+        while (n > 0 && s[n-1] == ' ') n--;
+        for (int i = 0; i < n; ++i) {
+            if (s[i] == ' ') cnt = i+1;
         }
-        return last-begin;
+        return n-cnt;
     }
 };

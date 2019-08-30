@@ -10,6 +10,22 @@
 // https://leetcode.com/problems/valid-anagram/discuss/66519/2-C%2B%2B-Solutions-with-Explanations
 //
 
+// 刚才无耻的用自带函数解决了这个问题，哈哈
+// 就是效率不咋滴！
+//
+// 40ms + 9.5MB
+//
+
+class Solution {
+public:
+    bool isAnagram(string s, string t) {
+        sort(s.begin(), s.end());
+        sort(t.begin(), t.begin());
+        if (s == t) return true;
+        else return false;
+    }
+};
+
 class Solution {
 public:
     bool isAnagram(string s, string t) {
