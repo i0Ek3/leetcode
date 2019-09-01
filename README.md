@@ -4,14 +4,16 @@
 
 The solution of LeetCode problems, take it easy, let us fuck it up!
 
-All of LeetCode problems you can visit [here](https://leetcode.com/problemset/all/) but without locked ones, if you want to locked ones, please visit [here](http://206.81.6.248:12306/leetcode/algorithm).
+All of LeetCode problems you can visit [here](https://leetcode.com/problemset/all/) but without locked ones, if you want to see more locked ones, please visit [here](http://206.81.6.248:12306/leetcode/algorithm).
 
 Some stuffs about coding, please visit [here](https://coolshell.cn/articles/12052.html) and [here](https://selfboot.cn/2016/07/24/leetcode_guide_why/). Good luck~
 
-This [website](https://www.acwing.com) is awesome, please.
+For coding, this [website](https://www.acwing.com) is awesome, please.
 
 
 ## Problems
+
+> Notes: Under the C++/, there are lots of solutions which I didn't add here, you can find them by Ctrl-F, enjoys.
 
 | Number | Title | Solution | Difficulty |
 | ------ | ----- | -------- | ---------- |
