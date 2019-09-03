@@ -14,20 +14,13 @@
 class Solution {
 public:
     int maxSubArray(vector<int>& nums) {
-        int n = nums.size();
+        int ans = nums[0];
         int sum = 0;
-        int result = 0;
-        int max = nums[0];
-        if (n == 0) return 0;
-        else {
-            for (int i = 0; i < n; i++) {
-                sum += nums[i];
-                max = max(max, nums[i]);
-                result = max(result, sum);
-                sum = max(sum, 0);
-            }
-            if (max < 0) return max;
-            return result;
+        for (auto i : nums) {
+            if (sum > 0) sum += i;
+            else sum = i;
+            ans = std::max(ans, sum);
         }
+        return ans;
     }
 };

@@ -12,19 +12,18 @@ class Solution {
 public:
     int compress(vector<char>& chars) {
         int n = chars.size();     
-        int cnt = 1;
-        int j = 0;
-        for (int i = 1; i <= n; ++i, ++cnt) {
-            if (i == n || chars[i] != chars[i-1]) {
-                chars[j++] = chars[i-1];
-                if (cnt >= 2) {
-                    for (auto c : to_string(cnt)) {
-                        chars[j++] = c;
+        int tmp = 0, res = 0;
+        for (int i = 0; i < n; ++i) {
+            if (i+1 == n || chars[i] != chars[i+1]) {
+                chars[res++] = chars[i];
+                if (i > tmp) {
+                    for (auto c : to_string(i-tmp+1)) {
+                        chars[res++] = c;
                     }
                 }
-                cnt = 0;
+                tmp = i + 1;
             }
         }
-        return j;
+        return res;
     }
 };
