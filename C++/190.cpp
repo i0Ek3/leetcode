@@ -11,6 +11,35 @@
 // for 8 bit binary number abcdefgh, the process is as follow:
 // abcdefgh -> efghabcd -> ghefcdab -> hgfedcba
 //
+// BIGO 的面试题目，不过BIGO这边改成了64位。
+//
+
+class Solution {
+public:
+    uint32_t reverseBits(uint32_t n) {
+        uint32_t res = 0;
+        for (int i = 0; i < 32; ++i) {
+            res << 1;
+            res += n & 1;
+            n >> 1;
+        }
+        return res;
+    }
+};
+
+class Solution { // 使用bitset库
+public:
+    uint32_t reverseBits(uint32_t n) {
+        bitset<32> b = n;
+        for (int i = 0; i < 16; i++) {
+            if (b[i] != b[31-i]) {
+                b[i] = !b[i];
+                b[31-i] = !b[31-i];
+            }
+        }
+        return b.to_ulong();
+    }
+};
 
 class Solution {
 public:
