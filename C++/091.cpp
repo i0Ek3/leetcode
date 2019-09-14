@@ -8,22 +8,40 @@
 //
 // 发现后面的题感觉难度增加了呢？理解起来很是费劲。下面的答案是摘自评论区的，哪位大神来解释一下？
 //
+class Solution {
+public:
+    int numdecodings(string s) {
+        int cnt = 0;
+        if (s.size() == 0 || (s.size() == 1 && s[0] == '0')) return 0;
+        if (s.size() == 1) return 1;
+
+        vector<int> dp(s.size()+1, 0);
+        dp[0] = 1;
+
+        for (int i = 0; i < s.size(); ++i) {
+            dp[i+1] = s[i] == '0' ? 0 : dp[i];
+            if (i > 0 && (s[i-1] == '1' || (s[i-1] == '2' && s[i] <= '6')))
+                dp[i+1] += dp[i-1];
+        }
+        return dp.back();
+    }
+};
 
 class Solution {
 public:
     int numDecodings(string s) {
         int n = s.size();
         if (n == 0 || s[0] == '0') return 0;
-
-        int begin = 0, now = 1;
+        int begin = 0, res = 1;
+        
         for (size_t i = 1; i <= n; i++) {
-            if (s[i-1] == '0') now = 0;
+            if (s[i-1] == '0') res = 0;
             if (i < 2 || !(s[i-2] == '1' || (s[i-2] == '2' && s[i-1] <= '6'))) begin = 0;
-            int tmp = now;
-            now = begin + now;
+            int tmp = res;
+            res = begin + res;
             begin = tmp;
         }
-        return now;
+        return res;
     }
 };
 

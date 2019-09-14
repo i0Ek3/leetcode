@@ -12,7 +12,7 @@ class Solution {
 public:
     int minPathSum(vector<vector<int>>& grid) {
         int n = grid.size();
-        for (decltype(b) i = 0; i < n; i++) {
+        for (decltype(n) i = 0; i < n; i++) {
             int m = grid[0].size();
             for (decltype(m) j = 0; j < m; j++) {
                 if (i == 0 && j == 0) continue;
