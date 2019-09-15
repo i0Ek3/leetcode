@@ -9,13 +9,12 @@
 class Solution {
 public:
     int rob(vector<int>& nums)  {
-        int n = nums.size();
         int pre = 0;
         int cur = 0;
-        for (int i = 0; i < n; i++) {
-            int tmp = max(pre + nums[i], cur);
-            pre = cur;
-            cur = temp;
+        for (auto i : nums) {
+            int tmp = cur;
+            cur = max(pre + i, cur);
+            pre = tmp;
         }
         return cur;
     }
