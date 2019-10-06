@@ -58,6 +58,7 @@ For coding, this [website](https://www.acwing.com) is awesome, please.
 |039|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[C++](./C++/039.cpp)|Media|
 |041💊|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[C++](./C++/041.cpp)|Hard|
 |042|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[C++](./C++/042.cpp)|Hard|
+|043|[](https://leetcode.com/problems/trapping-rain-water/)|[C++](./C++/043.cpp)||
 |044|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|[C++](./C++/044.cpp)|Hard|
 |046|[Permutations](https://leetcode.com/problems/permutations/)|[C++](./C++/046.cpp)|Medium|
 |048|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[C++](./C++/048.cpp)|Medium|
@@ -65,18 +66,27 @@ For coding, this [website](https://www.acwing.com) is awesome, please.
 |053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[C++](./C++/053.cpp)|Easy|
 |055|[Jump Game](https://leetcode.com/problems/jump-game/)|[C++](./C++/055.cpp)|Medium|
 |056|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[C++](./C++/056.cpp)|Medium|
+|058|[](https://leetcode.com/problems/trapping-rain-water/)|[C++](./C++/058.cpp)||
+|061|[](https://leetcode.com/problems/trapping-rain-water/)|[C++](./C++/061cpp)||
 |062|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[C++](./C++/062.cpp)|Medium|
+|063|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[C++](./C++/063.cpp)|Medium|
 |064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[C++](./C++/064.cpp)|Medium|
+|065|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[C++](./C++/065.cpp)|Medium|
+|067|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[C++](./C++/067.cpp)|Medium|
 |070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[C++](./C++/070.cpp)|Easy|
 |072|[Edit Distance](https://leetcode.com/problems/edit-distance/)|[C++](./C++/072.cpp)|Hard|
 |075|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[C++](./C++/075.cpp)|Medium|
 |076|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[C++](./C++/076.cpp)|Hard|
 |078|[Subsets](https://leetcode.com/problems/subsets/)|[C++](./C++/078.cpp)|Medium|
 |079|[Word Search](https://leetcode.com/problems/word-search/)|[C++](./C++/079.cpp)|Medium|
+|082|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[C++](./C++/082.cpp)|Hard|
+|083|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[C++](./C++/083.cpp)|Hard|
 |084|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[C++](./C++/084.cpp)|Hard|
 |085💊|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)|[C++](./C++/085.cpp)|Hard|
+|086|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[C++](./C++/086.cpp)|Hard|
 |088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[C++](./C++/088.cpp)|Easy|
 |091💊|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[C++](./C++/091.cpp)|Medium|
+|092|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[C++](./C++/092.cpp)|Hard|
 |094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[C++](./C++/094.cpp)|Medium|
 |096|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[C++](./C++/096.cpp)|Medium|
 |098|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[C++](./C++/098.cpp)|Medium|
@@ -86,7 +96,8 @@ For coding, this [website](https://www.acwing.com) is awesome, please.
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[C++](./C++/104.cpp)|Easy|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[C++](./C++/105.cpp)|Medium|
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[C++](./C++/108.cpp)|Easy|
-|110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[C++](./C++/100.cpp)|Easy|
+|109|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[C++](./C++/109.cpp)|Hard|
+|110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[C++](./C++/110.cpp)|Easy|
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[C++](./C++/114.cpp)|Medium|
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[C++](./C++/116.cpp)|Medium|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[C++](./C++/118.cpp)|Easy|
@@ -106,32 +117,42 @@ For coding, this [website](https://www.acwing.com) is awesome, please.
 |140💊|[Word Break II](https://leetcode.com/problems/word-break-ii/)|[C++](./C++/140.cpp)|Hard|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[C++](./C++/141.cpp)|Easy|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[C++](./C++/142.cpp)|Medium|
+|143|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[C++](./C++/143.cpp)|Medium|
+|144|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[C++](./C++/144.cpp)|Medium|
+|145|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[C++](./C++/145.cpp)|Medium|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|[C++](./C++/146.cpp)|Hard|
+|147|[LRU Cache](https://leetcode.com/problems/lru-cache/)|[C++](./C++/147.cpp)|Hard|
 |148|[Sort List](https://leetcode.com/problems/sort-list/)|[C++](./C++/148.cpp)|Medium|
 |149💊|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)|[C++](./C++/149.cpp)|Hard|
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[C++](./C++/150.cpp)|Medium|
+|151|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[C++](./C++/151.cpp)|Medium|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[C++](./C++/152.cpp)|Medium|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)|[C++](./C++/155.cpp)|Easy|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists)|[C++](./C++/160.cpp)|Easy|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[C++](./C++/162.cpp)|Medium|
 |163🔒|[Missing Ranges](http://leetcode.liangjiateng.cn/leetcode/missing-ranges/description)|[C++](./C++/163.cpp)|Medium|
+|165|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[C++](./C++/165.cpp)|Medium|
 |166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)|[C++](./C++/166.cpp)|Medium|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)|[C++](./C++/167.cpp)|Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[C++](./C++/169.cpp)|Easy|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[C++](./C++/171.cpp)|Easy|
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|[C++](./C++/172.cpp)|Easy|
 |179💊|[Largest Number](https://leetcode.com/problems/largest-number/)|[C++](./C++/179.cpp)|Medium|
+|186|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[C++](./C++/186.cpp)|Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[C++](./C++/189.cpp)|Easy|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[C++](./C++/190.cpp)|Easy|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[C++](./C++/191.cpp)|Easy|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|[C++](./C++/198.cpp)|Easy|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[C++](./C++/200.cpp)|Medium|
 |202💊|[Happy Number](https://leetcode.com/problems/happy-number/)|[C++](./C++/202.cpp)|Easy|
+|204|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[C++](./C++/204.cpp)|Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[C++](./C++/206.cpp)|Easy|
 |207💊|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[C++](./C++/207.cpp)|Medium|
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[C++](./C++/208.cpp)|Medium|
 |210💊|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|[C++](./C++/210.cpp)|Medium|
 |212💊|[Word Search II](https://leetcode.com/problems/word-search-ii/)|[C++](./C++/212.cpp)|Hard|
+|213|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[C++](./C++/213.cpp)|Medium|
+|214|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[C++](./C++/214.cpp)|Medium|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[C++](./C++/215.cpp)|Medium|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[C++](./C++/217.cpp)|Easy|
 |218💊|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)|[C++](./C++/218.cpp)|Hard|
@@ -173,11 +194,13 @@ For coding, this [website](https://www.acwing.com) is awesome, please.
 |341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|[C++](./C++/341.cpp)|Medium|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/submissions/)|[C++](./C++/342.cpp)|Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[C++](./C++/344.cpp)|Easy|
+|345|[Reverse String](https://leetcode.com/problems/reverse-string/)|[C++](./C++/345.cpp)|Easy|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[C++](./C++/347.cpp)|Medium|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[C++](./C++/350.cpp)|Easy|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[C++](./C++/371.cpp)|Easy|
 |378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[C++](./C++/378.cpp)|Medium|
 |380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[C++](./C++/380.cpp)|Medium|
+|383|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|[C++](./C++/383.cpp)|Medium|
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|[C++](./C++/384.cpp)|Medium|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[C++](./C++/387.cpp)|Easy|
 |394|[Decode String](https://leetcode.com/problems/decode-string/)|[C++](./C++/394.cpp)|Medium|
@@ -185,11 +208,16 @@ For coding, this [website](https://www.acwing.com) is awesome, please.
 |399💊|[Evaluate Division](https://leetcode.com/problems/evaluate-division/)|[C++](./C++/399.cpp)|Medium|
 |406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|[C++](./C++/406.cpp)|Medium|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[C++](./C++/412.cpp)|Easy|
+|415|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[C++](./C++/415.cpp)|Easy|
 |416💊|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)|[C++](./C++/416.cpp)|Medium|
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/)|[C++](./C++/437.cpp)|Easy|
 |438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[C++](./C++/438.cpp)|Easy|
+|443|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[C++](./C++/443.cpp)|Easy|
+|445|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[C++](./C++/445.cpp)|Easy|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[C++](./C++/448.cpp)|Easy|
 |454|[4Sum II](https://leetcode.com/problems/4sum-ii/)|[C++](./C++/454.cpp)|Medium|
+|459|[4Sum II](https://leetcode.com/problems/4sum-ii/)|[C++](./C++/459.cpp)|Medium|
+|460|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[C++](./C++/460.cpp)|Easy|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[C++](./C++/461.cpp)|Easy|
 |494|[Target Sum](https://leetcode.com/problems/target-sum/)|[C++](./C++/494.cpp)|Medium|
 |538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)|[C++](./C++/538.cpp)|Easy|
@@ -200,17 +228,8 @@ For coding, this [website](https://www.acwing.com) is awesome, please.
 |621|[Task Scheduler](https://leetcode.com/problems/task-scheduler/)|[C++](./C++/621.cpp)|Medium|
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/)|[C++](./C++/633.cpp)|Easy|
 |647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[C++](./C++/647.cpp)|Medium|
+|714|[](https://leetcode.com/problems/daily-temperatures/)|[C++](./C++/714.cpp)|Medium|
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[C++](./C++/739.cpp)|Medium|
-||[]()|[C++](./C++/.cpp)| |
-||[]()|[C++](./C++/.cpp)| |
-||[]()|[C++](./C++/.cpp)| |
-||[]()|[C++](./C++/.cpp)| |
-||[]()|[C++](./C++/.cpp)| |
-||[]()|[C++](./C++/.cpp)| |
-||[]()|[C++](./C++/.cpp)| |
-||[]()|[C++](./C++/.cpp)| |
-||[]()|[C++](./C++/.cpp)| |
-||[]()|[C++](./C++/.cpp)| |
 
 ## Credit
 
