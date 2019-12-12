@@ -7,8 +7,13 @@
 
 class Solution {
 public:
-    TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-
+    TreeNode* buildTree(vector<int>& pre, vector<int>& in) {
+        if (pre.empty() || pre.empty()) return nullptr;
+        TreeNode *root = new TreeNode(pre[0]);
+        int i = find(in.begin(), in.end(), pre[0]) - in.begin();
+        root->left = buildTree(vector<int>(pre.begin()+1, pre.begin()+i+1), vector<int>(in.begin(), in.begin()+i));
+        root->right = buildTree(vector<int>)(pre.begin()+i+1, pre.end()), vector<int>(in.begin()+i+1, in.end()));
+        return root;
     }
 };
 
