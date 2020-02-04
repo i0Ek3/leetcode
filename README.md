@@ -4,11 +4,21 @@
 
 The solution of LeetCode problems, take it easy, let us fuck it up!
 
-All of LeetCode problems you can visit [here](https://leetcode.com/problemset/all/) but without locked ones, if you want to see more locked ones, please visit [here](http://206.81.6.248:12306/leetcode/algorithm).
 
-Some stuffs about coding, please visit [here](https://coolshell.cn/articles/12052.html) and [here](https://selfboot.cn/2016/07/24/leetcode_guide_why/). Good luck~
+## Recommend
 
-For coding, this [website](https://www.acwing.com) is awesome, please.
+- [LeetCode](https://leetcode.com/problemset/all/) 
+- [LeetCode with locked](https://206.81.6.248:12306/leetcode/algorithm)
+- [acwing](https://www.acwing.com)
+- [leetcode.wang](https://leetcode.wang)
+- [@grandyang](https://github.com/grandyang/leetcode)
+- [@haoel](https://github.com/haoel/leetcode)
+- [@pezy](https://github.com/pezy/LeetCode)
+- [@soulmachine](https://github.com/soulmachine/leetcode)
+- [@MisterBooo](https://github.com/MisterBooo/LeetCodeAnimation)
+- [DP stuff](https://juejin.im/post/5d556b7ef265da03aa2568d5#heading-11)
+- [leetcode guide why](https://selfboot.cn/2016/07/24/leetcode_guide_why/)
+- [some stuff you need read](https://coolshell.cn/articles/12052.html)
 
 
 ## Problems
@@ -231,10 +241,3 @@ For coding, this [website](https://www.acwing.com) is awesome, please.
 |714|[](https://leetcode.com/problems/daily-temperatures/)|[C++](./C++/714.cpp)|Medium|
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[C++](./C++/739.cpp)|Medium|
 
-## Credit
-
-> Thanks to these guys for highly quality LeetCode solutions.
-
-- [@haoel](https://github.com/haoel/leetcode)
-- [@pezy](https://github.com/pezy/LeetCode)
-- [@soulmachine](https://github.com/soulmachine/leetcode)
