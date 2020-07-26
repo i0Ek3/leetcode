@@ -3,7 +3,7 @@
 class Solution(object):
     def longestConsecutive(self, nums):
         nums = set(nums)
-        best = 0;
+        best = 0
         for x in nums:
             if x - 1 not in nums:
                 y = x + 1
